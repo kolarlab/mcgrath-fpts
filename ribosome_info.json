@@ -1,0 +1,236 @@
+[
+    {
+        "organism": "A. baumannii",
+        "pdb_id": "6V39",
+        "resolution": 3.04,
+        "ribosome_class": "bacteria"
+    },
+    {
+        "organism": "B. burgdorferi",
+        "pdb_id": "8FMW",
+        "resolution": 2.86,
+        "ribosome_class": "bacteria"
+    },
+    {
+        "organism": "P. aeruginosa",
+        "pdb_id": "6SPF",
+        "resolution": 3.34,
+        "ribosome_class": "bacteria"
+    },
+    {
+        "organism": "S. aureus",
+        "pdb_id": "6YEF",
+        "resolution": 3.2,
+        "ribosome_class": "bacteria"
+    },
+    {
+        "organism": "C. acnes",
+        "pdb_id": "8CRX",
+        "resolution": 2.78,
+        "ribosome_class": "bacteria"
+    },
+    {
+        "organism": "E. coli",
+        "pdb_id": "5AFI",
+        "resolution": 2.9,
+        "ribosome_class": "bacteria"
+    },
+    {
+        "organism": "E. faecalis",
+        "pdb_id": "7P7U",
+        "resolution": 3.1,
+        "ribosome_class": "bacteria"
+    },
+    {
+        "organism": "F. johnsoniae",
+        "pdb_id": "7JIL",
+        "resolution": 2.8,
+        "ribosome_class": "bacteria"
+    },
+    {
+        "organism": "L. innocua",
+        "pdb_id": "8UU5",
+        "resolution": 3.0,
+        "ribosome_class": "bacteria"
+    },
+    {
+        "organism": "M. smegmatis",
+        "pdb_id": "8FR8",
+        "resolution": 2.76,
+        "ribosome_class": "bacteria"
+    },
+    {
+        "organism": "M. tuberculosis",
+        "pdb_id": "7MT7",
+        "resolution": 2.71,
+        "ribosome_class": "bacteria"
+    },
+    {
+        "organism": "P. urativorans",
+        "pdb_id": "8RDV",
+        "resolution": 2.6,
+        "ribosome_class": "bacteria"
+    },
+    {
+        "organism": "T. thermophilus",
+        "pdb_id": "8CVL",
+        "resolution": 2.3,
+        "ribosome_class": "bacteria"
+    },
+    {
+        "organism": "C. albicans",
+        "pdb_id": "7PZY",
+        "resolution": 2.32,
+        "ribosome_class": "eukaryotes"
+    },
+    {
+        "organism": "C. elegans",
+        "pdb_id": "9BH5",
+        "resolution": 2.63,
+        "ribosome_class": "eukaryotes"
+    },
+    {
+        "organism": "C. thermophilia",
+        "pdb_id": "7OLD",
+        "resolution": 3.0,
+        "ribosome_class": "eukaryotes"
+    },
+    {
+        "organism": "D. rerio",
+        "pdb_id": "7OYB",
+        "resolution": 2.4,
+        "ribosome_class": "eukaryotes"
+    },
+    {
+        "organism": "E. cuniculi",
+        "pdb_id": "7QEP",
+        "resolution": 2.7,
+        "ribosome_class": "eukaryotes"
+    },
+    {
+        "organism": "G. lamblia",
+        "pdb_id": "7PWO",
+        "resolution": 2.75,
+        "ribosome_class": "eukaryotes"
+    },
+    {
+        "organism": "S. pombe",
+        "pdb_id": "9AXV",
+        "resolution": 2.4,
+        "ribosome_class": "eukaryotes"
+    },
+    {
+        "organism": "E. gracilis",
+        "pdb_id": "6ZJ3",
+        "resolution": 3.15,
+        "ribosome_class": "eukaryotes"
+    },
+    {
+        "organism": "G. gallus",
+        "pdb_id": "8Q7Z",
+        "resolution": 2.5,
+        "ribosome_class": "eukaryotes"
+    },
+    {
+        "organism": "H. sapiens",
+        "pdb_id": "8JDK",
+        "resolution": 2.26,
+        "ribosome_class": "eukaryotes"
+    },
+    {
+        "organism": "L. donovani",
+        "pdb_id": "5T2A",
+        "resolution": 2.9,
+        "ribosome_class": "eukaryotes"
+    },
+    {
+        "organism": "L. major",
+        "pdb_id": "8A3W",
+        "resolution": 2.89,
+        "ribosome_class": "eukaryotes"
+    },
+    {
+        "organism": "M. musculus",
+        "pdb_id": "7LS2",
+        "resolution": 3.1,
+        "ribosome_class": "eukaryotes"
+    },
+    {
+        "organism": "O. cuniculus",
+        "pdb_id": "6SGC",
+        "resolution": 2.8,
+        "ribosome_class": "eukaryotes"
+    },
+    {
+        "organism": "P. locustae",
+        "pdb_id": "6ZU5",
+        "resolution": 2.9,
+        "ribosome_class": "eukaryotes"
+    },
+    {
+        "organism": "R. norvegicus",
+        "pdb_id": "7QGG",
+        "resolution": 2.86,
+        "ribosome_class": "eukaryotes"
+    },
+    {
+        "organism": "S. cerevisiae",
+        "pdb_id": "8CCS",
+        "resolution": 1.97,
+        "ribosome_class": "eukaryotes"
+    },
+    {
+        "organism": "S. lophii",
+        "pdb_id": "7QCA",
+        "resolution": 2.79,
+        "ribosome_class": "eukaryotes"
+    },
+    {
+        "organism": "S. scrofa",
+        "pdb_id": "3J7P",
+        "resolution": 3.5,
+        "ribosome_class": "eukaryotes"
+    },
+    {
+        "organism": "T. brucei",
+        "pdb_id": "8OVA",
+        "resolution": 2.47,
+        "ribosome_class": "eukaryotes"
+    },
+    {
+        "organism": "V. necatrix",
+        "pdb_id": "6RM3",
+        "resolution": 3.4,
+        "ribosome_class": "eukaryotes"
+    },
+    {
+        "organism": "X. laevis",
+        "pdb_id": "7OYC",
+        "resolution": 2.4,
+        "ribosome_class": "eukaryotes"
+    },
+    {
+        "organism": "A. thaliana/B. oleracea",
+        "pdb_id": "6XYW",
+        "resolution": 3.86,
+        "ribosome_class": "mitochondria"
+    },
+    {
+        "organism": "H. sapiens",
+        "pdb_id": "7QI4",
+        "resolution": 2.2,
+        "ribosome_class": "mitochondria"
+    },
+    {
+        "organism": "N. crassa",
+        "pdb_id": "6YWY",
+        "resolution": 3.05,
+        "ribosome_class": "mitochondria"
+    },
+    {
+        "organism": "S. scrofa",
+        "pdb_id": "6YDP",
+        "resolution": 3.0,
+        "ribosome_class": "mitochondria"
+    }
+]

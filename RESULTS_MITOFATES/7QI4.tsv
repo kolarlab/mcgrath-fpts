@@ -1,0 +1,75 @@
+Sequence ID	Probability of presequence	Prediction	Cleavage site (processing enzyme)	Net charge	Positions for TOM20 recognition motif (deliminated by comma)	Position of amphypathic alpha-helix	BHHPPP	BPHBHH	HBHHBb	HBHHbB	HHBHHB	HHBPHB	HHBPHH	HHBPHP	HHHBBH	HHHBPH	HHHHBB	HHPBHH	HPBHHP	PHHBPH
+7QI4_2|Chain B[auth AB]|28S ribosomal protein S2, mitochondrial|Homo sapiens (9606)	0.922	Possessing mitochondrial presequence	40(MPP)	0.200	8-12	19-28-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_3|Chain C[auth AC]|28S ribosomal protein S24, mitochondrial|Homo sapiens (9606)	0.922	Possessing mitochondrial presequence	27(MPP), 35(Oct1)	0.074	24-28,58-62,92-96	17-28-high	-	-	-	-	24-29	-	-	-	-	-	-	-	-	-	
+7QI4_4|Chain D[auth AD]|28S ribosomal protein S5, mitochondrial|Homo sapiens (9606)	0.123	No mitochondrial presequence	86(MPP), 87(Icp55*)	0.058	4-8,19-23,63-67	1-10-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_6|Chain F[auth AF]|28S ribosomal protein S7, mitochondrial|Homo sapiens (9606)	0.987	Possessing mitochondrial presequence	34(MPP)	0.147	5-9,19-23,73-77	7-16-high	-	-	6-11	-	5-10	-	-	-	-	-	-	-	-	-	
+7QI4_9|Chain I[auth AI]|28S ribosomal protein S11, mitochondrial|Homo sapiens (9606)	0.991	Possessing mitochondrial presequence	24(MPP)	0.167	21-25	4-15-high	-	-	-	-	-	-	-	11-16	-	-	-	-	-	2-7	
+7QI4_11|Chain K[auth AK]|28S ribosomal protein S14, mitochondrial|Homo sapiens (9606)	0.593	Possessing mitochondrial presequence	12(MPP)	0.083	63-67	8-17-high	-	-	-	-	-	9-14	-	-	-	-	-	-	-	8-13	
+7QI4_13|Chain M[auth AM]|28S ribosomal protein S16, mitochondrial|Homo sapiens (9606)	0.807	Possessing mitochondrial presequence	30(MPP)	0.133	8-12,31-35,73-77,87-91	4-13-high	-	-	9-14	-	8-13	-	-	-	-	-	-	-	-	-	
+7QI4_15|Chain O[auth AO]|28S ribosomal protein S18b, mitochondrial|Homo sapiens (9606)	0.908	Possessing mitochondrial presequence	21(MPP)	0.143		4-13-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_16|Chain P[auth AP]|28S ribosomal protein S18c, mitochondrial|Homo sapiens (9606)	0.169	No mitochondrial presequence	39(MPP)	0.128	16-20,62-66	14-24-high	-	-	-	-	-	-	-	-	-	-	-	-	16-21	-	
+7QI4_18|Chain R[auth AR]|28S ribosomal protein S22, mitochondrial|Homo sapiens (9606)	0.775	Possessing mitochondrial presequence	52(MPP), 53(Icp55*)	0.096	20-24	10-19-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_24|Chain X[auth AX]|28S ribosomal protein S29, mitochondrial|Homo sapiens (9606)	0.983	Possessing mitochondrial presequence	21(MPP)	0.190	6-10	2-13-high	-	-	-	-	-	-	-	-	-	-	-	-	6-11	-	
+7QI4_28|Chain BA[auth A1]|28S ribosomal protein S35, mitochondrial|Homo sapiens (9606)	0.882	Possessing mitochondrial presequence	21(MPP), 29(Oct1)	0.143		17-26-high	-	17-22	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_31|Chain EA[auth A4]|Pentatricopeptide repeat domain-containing protein 3, mitochondrial|Homo sapiens (9606)	0.999	Possessing mitochondrial presequence	36(MPP), 37(Icp55*)	0.167	6-10,65-69	12-21-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_38|Chain LA[auth E]|39S ribosomal protein L3, mitochondrial|Homo sapiens (9606)	0.786	Possessing mitochondrial presequence	40(MPP)	0.075	74-78	13-22-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_39|Chain MA[auth F]|39S ribosomal protein L4, mitochondrial|Homo sapiens (9606)	0.770	Possessing mitochondrial presequence	71(MPP)	0.014		19-28-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_41|Chain OA[auth I]|39S ribosomal protein L10, mitochondrial|Homo sapiens (9606)	0.965	Possessing mitochondrial presequence	39(MPP)	0.179	78-82	1-10-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_42|Chain PA[auth J]|39S ribosomal protein L11, mitochondrial|Homo sapiens (9606)	0.486	Possessing mitochondrial presequence	43(MPP)	0.163	4-8,19-23,90-94	16-25-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_45|Chain SA[auth M]|39S ribosomal protein L15, mitochondrial|Homo sapiens (9606)	0.052	No mitochondrial presequence	92(MPP)	0.207		14-23-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_47|Chain UA[auth O]|39S ribosomal protein L17, mitochondrial|Homo sapiens (9606)	0.897	Possessing mitochondrial presequence	31(MPP)	0.161	56-60,72-76,86-90	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_50|Chain XA[auth R]|39S ribosomal protein L20, mitochondrial|Homo sapiens (9606)	0.850	Possessing mitochondrial presequence	30(MPP)	0.133	38-42,46-50	21-30-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_54|Chain BB[auth V]|39S ribosomal protein L24, mitochondrial|Homo sapiens (9606)	0.074	No mitochondrial presequence	21(MPP)	0.143		3-13-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_55|Chain CB[auth W]|39S ribosomal protein L27, mitochondrial|Homo sapiens (9606)	0.975	Possessing mitochondrial presequence	30(MPP)	0.100	27-31	11-20-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_61|Chain IB[auth 2]|39S ribosomal protein L34, mitochondrial|Homo sapiens (9606)	0.991	Possessing mitochondrial presequence	69(MPP), 70(Icp55*)	0.145	80-84	4-14-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_65|Chain MB[auth 6]|39S ribosomal protein L38, mitochondrial|Homo sapiens (9606)	0.734	Possessing mitochondrial presequence	18(MPP), 26(Oct1)	0.167	5-9,67-71	5-15-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_67|Chain OB[auth 8]|39S ribosomal protein L40, mitochondrial|Homo sapiens (9606)	0.892	Possessing mitochondrial presequence	29(MPP)	0.069		19-29-low	-	-	-	-	-	-	-	5-10	-	-	-	-	-	4-9	
+7QI4_69|Chain QB[auth a]|39S ribosomal protein L42, mitochondrial|Homo sapiens (9606)	0.056	No mitochondrial presequence	14(MPP)	0.214	5-9,16-20	13-22-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_70|Chain RB[auth b]|39S ribosomal protein L43, mitochondrial|Homo sapiens (9606)	0.698	Possessing mitochondrial presequence	29(MPP)	0.138	19-23,72-76	15-26-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_75|Chain WB[auth g]|39S ribosomal protein L49, mitochondrial|Homo sapiens (9606)	0.998	Possessing mitochondrial presequence	25(MPP), 33(Oct1)	0.200	35-39,48-52	4-13-high	24-29	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_77|Chain YB[auth i]|39S ribosomal protein L51, mitochondrial|Homo sapiens (9606)	0.915	Possessing mitochondrial presequence	23(MPP), 24(Icp55*)	0.087	28-32,88-92	4-17-low	-	-	-	-	-	-	-	20-25	-	19-24	-	-	-	-	
+7QI4_82|Chain DC[auth o]|Ribosomal protein 63, mitochondrial|Homo sapiens (9606)	0.802	Possessing mitochondrial presequence	26(MPP)	0.269	73-77	2-11-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_84|Chain FC[auth q]|Growth arrest and DNA damage-inducible proteins-interacting protein 1|Homo sapiens (9606)	0.484	Possessing mitochondrial presequence	24(MPP)	0.125		9-18-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_85|Chain GC[auth r]|39S ribosomal protein S18a, mitochondrial|Homo sapiens (9606)	0.948	Possessing mitochondrial presequence	34(MPP)	0.147	3-7,11-15	7-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_86|Chain HC[auth s]|39S ribosomal protein S30, mitochondrial|Homo sapiens (9606)	0.969	Possessing mitochondrial presequence	16(MPP)	0.250	3-7,88-92	3-12-high	-	-	4-9	-	3-8	-	-	-	-	-	-	-	-	-	
+7QI4_87|Chains IC[auth t], JC[auth u], KC[auth v], LC[auth w], MC[auth x], NC[auth y]|39S ribosomal protein L12, mitochondrial|Homo sapiens (9606)	0.993	Possessing mitochondrial presequence	36(MPP)	0.167	20-24	1-10-low	-	-	-	-	20-25	-	-	-	-	-	-	-	-	-	
+7QI4_88|Chain OC[auth z]|39S ribosomal protein L1, mitochondrial|Homo sapiens (9606)	0.929	Possessing mitochondrial presequence	42(MPP), 43(Icp55*)	0.143	4-8,8-12,20-24,88-92	5-14-high	-	-	-	5-10	-	-	-	-	-	-	-	-	-	-	
+7QI4_83|Chain EC[auth p]|Peptidyl-tRNA hydrolase ICT1, mitochondrial|Homo sapiens (9606)	0.920	Possessing mitochondrial presequence	29(MPP)	0.207	3-7,45-49	18-30-high	-	-	-	-	-	-	-	-	-	-	-	2-7	-	-	
+7QI4_81|Chain CC[auth m]|39S ribosomal protein L55, mitochondrial|Homo sapiens (9606)	0.993	Possessing mitochondrial presequence	25(MPP), 33(Oct1)	0.200	48-52	4-13-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_80|Chain BC[auth l]|39S ribosomal protein L54, mitochondrial|Homo sapiens (9606)	0.585	Possessing mitochondrial presequence	30(MPP), 31(Icp55*)	0.100		4-13-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_8|Chain H[auth AH]|28S ribosomal protein S10, mitochondrial|Homo sapiens (9606)	0.983	Possessing mitochondrial presequence	13(MPP)	0.231	11-15	12-21-high	-	-	-	-	-	-	2-7	-	9-14	1-6	-	-	-	-	
+7QI4_79|Chain AC[auth k]|39S ribosomal protein L53, mitochondrial|Homo sapiens (9606)	0.519	Possessing mitochondrial presequence	32(MPP), 40(Oct1)	0.125		5-16-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_78|Chain ZB[auth j]|39S ribosomal protein L52, mitochondrial|Homo sapiens (9606)	0.961	Possessing mitochondrial presequence	29(MPP)	0.103	74-78	4-15-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_76|Chain XB[auth h]|39S ribosomal protein L50, mitochondrial|Homo sapiens (9606)	0.877	Possessing mitochondrial presequence	57(MPP)	0.070		21-30-low	-	-	-	-	-	-	-	2-7	-	1-6	-	-	-	-	
+7QI4_74|Chain VB[auth f]|39S ribosomal protein L48, mitochondrial|Homo sapiens (9606)	0.899	Possessing mitochondrial presequence	47(MPP)	0.106	5-9,59-63	1-10-high	-	-	-	-	-	-	16-21	-	-	-	-	-	-	15-20	
+7QI4_73|Chain UB[auth e]|39S ribosomal protein L46, mitochondrial|Homo sapiens (9606)	0.903	Possessing mitochondrial presequence	31(MPP), 32(Icp55*)	0.161	19-23	16-27-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_72|Chain TB[auth d]|39S ribosomal protein L45, mitochondrial|Homo sapiens (9606)	0.208	No mitochondrial presequence	37(MPP)	0.081	12-16	12-21-high	-	-	-	-	-	-	-	-	-	-	-	11-16	-	-	
+7QI4_71|Chain SB[auth c]|39S ribosomal protein L44, mitochondrial|Homo sapiens (9606)	0.882	Possessing mitochondrial presequence	50(MPP)	0.180	5-9,21-25	1-10-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_7|Chain G[auth AG]|28S ribosomal protein S9, mitochondrial|Homo sapiens (9606)	0.138	No mitochondrial presequence	49(MPP)	0.122		7-16-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_68|Chain PB[auth 9]|39S ribosomal protein L41, mitochondrial|Homo sapiens (9606)	0.688	Possessing mitochondrial presequence	10(MPP)	0.100	7-11	9-18-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_66|Chain NB[auth 7]|39S ribosomal protein L39, mitochondrial|Homo sapiens (9606)	0.538	Possessing mitochondrial presequence	26(MPP)	0.115	10-14	5-14-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_64|Chain LB[auth 5]|39S ribosomal protein L37, mitochondrial|Homo sapiens (9606)	0.498	Possessing mitochondrial presequence	29(MPP)	0.138	8-12,46-50	8-17-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_63|Chain KB[auth 4]|39S ribosomal protein L36, mitochondrial|Homo sapiens (9606)	0.807	Possessing mitochondrial presequence	36(MPP)	0.167	6-10,57-61	5-14-high	-	-	-	-	-	-	-	-	4-9	-	-	-	-	-	
+7QI4_62|Chain JB[auth 3]|39S ribosomal protein L35, mitochondrial|Homo sapiens (9606)	0.513	Possessing mitochondrial presequence	46(MPP)	0.109	9-13,76-80	11-20-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_60|Chain HB[auth 1]|39S ribosomal protein L33, mitochondrial|Homo sapiens (9606)	0.044	No mitochondrial presequence	20(MPP)	0.200	17-21	15-24-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_59|Chain GB[auth 0]|39S ribosomal protein L32, mitochondrial|Homo sapiens (9606)	0.222	No mitochondrial presequence	27(MPP)	0.074	24-28	20-29-high	-	-	-	-	-	-	19-24	-	-	-	-	-	-	-	
+7QI4_58|Chain FB[auth Z]|39S ribosomal protein L30, mitochondrial|Homo sapiens (9606)	0.259	No mitochondrial presequence	34(MPP)	0.059	4-8,85-89	16-27-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_57|Chain EB[auth Y]|39S ribosomal protein L47, mitochondrial|Homo sapiens (9606)	0.999	Possessing mitochondrial presequence	54(MPP), 62(Oct1)	0.111		9-18-high	-	-	-	-	-	-	-	-	8-13	-	7-12	-	-	-	
+7QI4_56|Chain DB[auth X]|39S ribosomal protein L28, mitochondrial|Homo sapiens (9606)	0.403	Possessing mitochondrial presequence	31(MPP)	0.161		15-24-low	-	-	-	-	-	-	-	-	9-14	-	8-13	-	-	-	
+7QI4_52|Chain ZA[auth T]|39S ribosomal protein L22, mitochondrial|Homo sapiens (9606)	0.752	Possessing mitochondrial presequence	72(MPP)	0.111	84-88	6-17-high	-	-	-	-	-	13-18	-	-	-	12-17	-	-	-	-	
+7QI4_51|Chain YA[auth S]|39S ribosomal protein L21, mitochondrial|Homo sapiens (9606)	0.312	No mitochondrial presequence	39(MPP)	0.103	10-14,92-96	10-21-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_49|Chain WA[auth Q]|39S ribosomal protein L19, mitochondrial|Homo sapiens (9606)	0.419	Possessing mitochondrial presequence	43(MPP)	0.093	7-11	15-26-low	-	-	-	-	-	-	21-26	-	-	-	-	-	-	20-25	
+7QI4_48|Chain VA[auth P]|39S ribosomal protein L18, mitochondrial|Homo sapiens (9606)	0.769	Possessing mitochondrial presequence	21(MPP)	0.190		3-12-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_46|Chain TA[auth N]|39S ribosomal protein L16, mitochondrial|Homo sapiens (9606)	0.985	Possessing mitochondrial presequence	74(MPP)	0.081	1-5	1-14-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_44|Chain RA[auth L]|39S ribosomal protein L14, mitochondrial|Homo sapiens (9606)	0.382	No mitochondrial presequence	17(MPP), 18(Icp55*)	0.059	14-18,54-58,57-61,87-91	3-12-low	21-26	-	-	-	-	-	-	-	-	-	-	13-18	14-19	-	
+7QI4_40|Chain NA[auth H]|39S ribosomal protein L9, mitochondrial|Homo sapiens (9606)	0.886	Possessing mitochondrial presequence	21(MPP)	0.143	18-22,56-60,79-83	20-29-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_37|Chain KA[auth D]|39S ribosomal protein L2, mitochondrial|Homo sapiens (9606)	0.323	No mitochondrial presequence	52(MPP)	0.058	6-10	4-13-high	-	-	-	-	-	-	-	9-14	-	-	-	5-10	-	-	
+7QI4_30|Chain DA[auth A3]|Aurora kinase A-interacting protein|Homo sapiens (9606)	0.903	Possessing mitochondrial presequence	48(MPP)	0.104	10-14	3-12-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_25|Chain Y[auth AY]|28S ribosomal protein S31, mitochondrial|Homo sapiens (9606)	0.224	No mitochondrial presequence	59(MPP)	0.136	56-60	1-10-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_23|Chain W[auth AW]|28S ribosomal protein S28, mitochondrial|Homo sapiens (9606)	0.654	Possessing mitochondrial presequence	28(MPP)	0.143	16-20	21-30-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_22|Chain V[auth AV]|28S ribosomal protein S27, mitochondrial|Homo sapiens (9606)	0.979	Possessing mitochondrial presequence	28(MPP)	0.179	72-76	17-29-high	-	-	-	-	-	-	12-17	-	-	11-16	-	-	-	-	
+7QI4_21|Chain U[auth AU]|28S ribosomal protein S26, mitochondrial|Homo sapiens (9606)	0.999	Possessing mitochondrial presequence	26(MPP)	0.192	1-5	1-10-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_19|Chain S[auth AS]|28S ribosomal protein S23, mitochondrial|Homo sapiens (9606)	0.096	No mitochondrial presequence	16(MPP)	0.062	96-100	6-15-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_14|Chain N[auth AN]|28S ribosomal protein S17, mitochondrial|Homo sapiens (9606)	0.516	Possessing mitochondrial presequence	33(MPP)	0.242	14-18,30-34,39-43,65-69,88-92	14-24-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+7QI4_12|Chain L[auth AL]|28S ribosomal protein S15, mitochondrial|Homo sapiens (9606)	0.991	Possessing mitochondrial presequence	52(MPP)	0.135	1-5,89-93	1-10-high	-	-	-	-	-	-	-	5-10	-	4-9	-	-	-	-	
+7QI4_10|Chain J[auth AJ]|28S ribosomal protein S12, mitochondrial|Homo sapiens (9606)	0.486	Possessing mitochondrial presequence	24(MPP)	0.042	21-25	3-14-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	

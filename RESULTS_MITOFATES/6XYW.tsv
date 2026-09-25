@@ -1,0 +1,61 @@
+Sequence ID	Probability of presequence	Prediction	Cleavage site (processing enzyme)	Net charge	Positions for TOM20 recognition motif (deliminated by comma)	Position of amphypathic alpha-helix	BHHPPP	BPHBHH	HBHHBb	HBHHbB	HHBHHB	HHBPHB	HHBPHH	HHBPHP	HHHBBH	HHHBPH	HHHHBB	HHPBHH	HPBHHP	PHHBPH
+6XYW_9|Chain I[auth Ai]|At4g35490|Arabidopsis thaliana (3702)	0.561	Possessing mitochondrial presequence	113(MPP)	0.097	88-92	1-10-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+6XYW_87|Chain IC[auth Ah]|50S ribosomal protein L10|Arabidopsis thaliana (3702)	0.254	No mitochondrial presequence	46(MPP)	0.087	4-8,60-64	1-10-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+6XYW_86|Chain HC[auth Az]|At5g55140|Arabidopsis thaliana (3702)	0.106	No mitochondrial presequence	32(MPP)	0.125	65-69	18-27-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+6XYW_8|Chain H[auth Ag]|Ribosomal protein L9/RNase H1|Arabidopsis thaliana (3702)	0.644	Possessing mitochondrial presequence	41(MPP)	0.098	11-15,74-78,83-87	8-17-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+6XYW_77|Chain YB[auth BE]|3-hydroxyisobutyryl-CoA hydrolase-like protein 2, mitochondrial|Arabidopsis thaliana (3702)	0.889	Possessing mitochondrial presequence	26(MPP)	0.192	73-77	5-14-high	-	-	-	-	-	-	-	16-21	-	-	-	-	-	15-20	
+6XYW_74|Chain VB[auth BB]|mS38|Arabidopsis thaliana (3702)	0.592	Possessing mitochondrial presequence	22(MPP)	0.182	5-9	1-10-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+6XYW_73|Chain UB[auth By]|28S ribosomal S34 protein|Arabidopsis thaliana (3702)	0.948	Possessing mitochondrial presequence	28(MPP), 29(Icp55*)	0.107	6-10	20-29-high	-	-	-	-	-	-	-	25-30	-	-	-	5-10	6-11	24-29	
+6XYW_71|Chain SB[auth Bu]|Uncharacterized protein|Arabidopsis thaliana (3702)	0.671	Possessing mitochondrial presequence	58(MPP), 59(Icp55*)	0.103	26-30,45-49,56-60	7-16-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+6XYW_70|Chain RB[auth Bs]|Ribosomal protein S21 family protein|Arabidopsis thaliana (3702)	0.278	No mitochondrial presequence	26(MPP)	0.115	36-40,52-56	1-12-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+6XYW_69|Chain QB[auth Bq]|F10K1.8 protein|Arabidopsis thaliana (3702)	0.928	Possessing mitochondrial presequence	27(MPP), 28(Icp55*)	0.185	3-7	16-25-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+6XYW_68|Chain PB[auth Bp]|Nucleic acid-binding, OB-fold-like protein|Arabidopsis thaliana (3702)	0.024	No mitochondrial presequence	24(MPP)	0.125	21-25,30-34	20-29-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+6XYW_67|Chain OB[auth Bo]|30S ribosomal protein S16-2, chloroplastic/mitochondrial|Arabidopsis thaliana (3702)	0.179	No mitochondrial presequence	20(MPP), 21(Icp55*)	0.300	17-21,73-77	10-21-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+6XYW_66|Chain NB[auth Bn]|At1g15810/F7H2_23|Arabidopsis thaliana (3702)	0.957	Possessing mitochondrial presequence	21(MPP), 22(Icp55*)	0.190	2-6,18-22	16-25-high	20-25	-	-	-	2-7	-	-	-	-	-	-	-	-	-	
+6XYW_65|Chain MB[auth Bj]|Probable ribosomal protein S11, mitochondrial|Arabidopsis thaliana (3702)	0.624	Possessing mitochondrial presequence	29(MPP), 30(Icp55*)	0.138		11-20-low	-	-	-	-	-	-	-	-	-	-	-	-	-	15-20	
+6XYW_62|Chain JB[auth Bd]|At1g64880|Arabidopsis thaliana (3702)	0.998	Possessing mitochondrial presequence	65(MPP), 66(Icp55*)	0.154	10-14,76-80	21-30-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+6XYW_61|Chain IB[auth Bc]|Ribosomal protein S4, mitochondrial|Arabidopsis thaliana (3702)	0.883	Possessing mitochondrial presequence	24(MPP), 25(Icp55*)	0.125	4-8	4-13-high	-	-	-	-	-	-	-	-	2-7	-	1-6	-	-	-	
+6XYW_60|Chain HB[auth Ba]|Ribosomal protein S2, mitochondrial|Arabidopsis thaliana (3702)	0.647	Possessing mitochondrial presequence	21(MPP)	0.143	8-12,53-57	8-17-high	-	-	-	-	-	-	-	-	-	-	-	7-12	8-13	-	
+6XYW_6|Chain F[auth Ae]|60S ribosomal protein L5, mitochondrial|Arabidopsis thaliana (3702)	0.005	No mitochondrial presequence	67(MPP)	0.030		7-16-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+6XYW_57|Chain EB[auth BG]|Pentatricopeptide repeat-containing protein At3g02650, mitochondrial|Arabidopsis thaliana (3702)	0.976	Possessing mitochondrial presequence	54(MPP), 55(Icp55*)	0.167		1-11-high	-	-	-	-	-	-	1-6	-	-	-	-	-	-	-	
+6XYW_56|Chain DB[auth Bt]|30S ribosomal protein S31, mitochondrial|Arabidopsis thaliana (3702)	0.634	Possessing mitochondrial presequence	30(MPP), 31(Icp55*)	0.133		5-14-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+6XYW_54|Chain BB[auth Bz]|AT3G18240 protein|Arabidopsis thaliana (3702)	0.959	Possessing mitochondrial presequence	46(MPP), 47(Icp55*)	0.152	13-17,86-90	18-27-high	-	-	-	-	-	-	-	5-10	11-16	4-9	-	-	-	-	
+6XYW_53|Chain AB[auth Bx]|37S ribosomal protein S27|Arabidopsis thaliana (3702)	0.743	Possessing mitochondrial presequence	37(MPP)	0.108	26-30	6-15-low	-	-	-	23-28	-	-	-	-	-	-	-	-	-	-	
+6XYW_52|Chain ZA[auth Bw]|Mitochondrial 28S ribosomal protein S29-like protein|Arabidopsis thaliana (3702)	0.676	Possessing mitochondrial presequence	50(MPP), 51(Icp55*)	0.100	47-51	20-29-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+6XYW_51|Chain YA[auth Br]|40S ribosomal protein S19, mitochondrial|Arabidopsis thaliana (3702)	0.996	Possessing mitochondrial presequence	28(MPP), 29(Icp55*)	0.107		7-16-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+6XYW_50|Chain XA[auth Bm]|At2g34520|Arabidopsis thaliana (3702)	0.497	Possessing mitochondrial presequence	48(MPP), 49(Icp55*)	0.125	4-8,89-93	4-13-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+6XYW_5|Chain E[auth Ad]|50S ribosomal protein L4|Arabidopsis thaliana (3702)	0.926	Possessing mitochondrial presequence	54(MPP), 55(Icp55*)	0.111		4-13-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+6XYW_49|Chain WA[auth Bl]|Small ribosomal subunit protein S13, mitochondrial|Arabidopsis thaliana (3702)	0.807	Possessing mitochondrial presequence	59(MPP)	0.119		13-22-low	-	-	-	-	-	-	-	18-23	-	-	-	-	-	17-22	
+6XYW_48|Chain VA[auth Bi]|40S ribosomal protein S10, mitochondrial|Arabidopsis thaliana (3702)	0.996	Possessing mitochondrial presequence	60(MPP)	0.100		15-24-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+6XYW_47|Chain UA[auth Bh]|30S ribosomal protein S9, mitochondrial|Arabidopsis thaliana (3702)	0.949	Possessing mitochondrial presequence	33(MPP), 34(Icp55*)	0.152	2-6	21-30-high	-	-	-	-	-	-	-	-	-	-	-	1-6	-	-	
+6XYW_46|Chain TA[auth Bf]|Ribosomal protein S7, mitochondrial|Arabidopsis thaliana (3702)	0.115	No mitochondrial presequence	30(MPP)	0.200	12-16,46-50,88-92	9-18-high	-	-	-	-	-	-	-	-	10-15	-	-	-	-	-	
+6XYW_45|Chain SA[auth Bb]|Ribosomal protein S3, mitochondrial|Arabidopsis thaliana (3702)	0.045	No mitochondrial presequence	69(MPP)	0.145	28-32,57-61,70-74	20-29-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+6XYW_41|Chain OA[auth AQ]|Pentatricopeptide repeat-containing protein PNM1, mitochondrial|Arabidopsis thaliana (3702)	0.922	Possessing mitochondrial presequence	58(MPP), 59(Icp55*)	0.121	10-14	9-18-high	-	-	-	-	-	-	14-19	-	-	13-18	-	-	-	-	
+6XYW_4|Chain D[auth AD]|Ribosomal protein L35|Arabidopsis thaliana (3702)	0.945	Possessing mitochondrial presequence	29(MPP)	0.172	1-5	1-10-high	-	-	-	-	-	-	-	-	-	-	-	-	1-6	-	
+6XYW_39|Chain MA[auth AO]|Pentatricopeptide repeat-containing protein At1g60770|Arabidopsis thaliana (3702)	0.710	Possessing mitochondrial presequence	69(MPP)	0.159	26-30	21-30-low	-	-	-	-	-	-	-	-	1-6	-	-	25-30	-	-	
+6XYW_34|Chain HA[auth AJ]|39S ribosomal protein|Arabidopsis thaliana (3702)	0.230	No mitochondrial presequence	49(MPP)	0.122	1-5,78-82	12-23-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+6XYW_33|Chain GA[auth AI]|At1g14620/T5E21_15|Arabidopsis thaliana (3702)	0.646	Possessing mitochondrial presequence	19(MPP), 20(Icp55*)	0.211		6-15-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+6XYW_31|Chain EA[auth AG]|At5g40080|Arabidopsis thaliana (3702)	0.025	No mitochondrial presequence	20(MPP), 21(Icp55*)	0.250		4-15-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+6XYW_3|Chain C[auth Ac]|50S ribosomal protein L3-2, mitochondrial|Arabidopsis thaliana (3702)	0.891	Possessing mitochondrial presequence	40(MPP), 41(Icp55*)	0.100		8-17-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+6XYW_29|Chain CA[auth AE]|Ribosomal protein|Arabidopsis thaliana (3702)	0.357	No mitochondrial presequence	23(MPP), 24(Icp55*)	0.348	7-11	10-19-high	-	-	-	-	-	13-18	-	-	-	-	-	-	-	-	
+6XYW_28|Chain BA[auth AC]|At3g06320|Arabidopsis thaliana (3702)	0.368	No mitochondrial presequence	28(MPP)	0.250	11-15	13-22-low	-	-	-	-	-	-	-	-	-	-	22-27	-	-	-	
+6XYW_27|Chain AA[auth AB]|At1g26740/T24P13_11|Arabidopsis thaliana (3702)	0.745	Possessing mitochondrial presequence	23(MPP), 24(Icp55*)	0.130	8-12,24-28	5-14-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+6XYW_26|Chain Z[auth AA]|Ribosomal protein L31|Arabidopsis thaliana (3702)	0.143	No mitochondrial presequence	43(MPP), 44(Icp55*)	0.163	21-25,32-36	20-29-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+6XYW_25|Chain Y[auth Ay]|At1g07830/F24B9_7|Arabidopsis thaliana (3702)	0.996	Possessing mitochondrial presequence	19(MPP)	0.211	3-7,73-77	2-11-high	-	-	-	-	-	-	-	-	-	-	-	2-7	-	-	
+6XYW_24|Chain X[auth Ax]|AT4g31460/F3L17_30|Arabidopsis thaliana (3702)	0.031	No mitochondrial presequence	46(MPP)	0.174	9-13	7-16-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+6XYW_23|Chain W[auth Aw]|50S ribosomal protein L27|Arabidopsis thaliana (3702)	0.260	No mitochondrial presequence	46(MPP)	0.043	43-47	15-24-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+6XYW_22|Chain V[auth Av]|Ribosomal protein L25/Gln-tRNA synthetase, anti-codon-binding domain-containing protein|Arabidopsis thaliana (3702)	0.831	Possessing mitochondrial presequence	29(MPP)	0.103	1-5	1-10-high	-	25-30	2-7	-	1-6	-	-	-	-	-	-	-	-	-	
+6XYW_21|Chain U[auth Au]|50S ribosomal protein L24|Arabidopsis thaliana (3702)	0.105	No mitochondrial presequence	18(MPP)	0.222	6-10,35-39	4-13-high	-	-	13-18	-	-	-	-	-	-	-	-	-	-	-	
+6XYW_20|Chain T[auth At]|At4g39880|Arabidopsis thaliana (3702)	0.097	No mitochondrial presequence	47(MPP)	0.128	9-13,44-48,81-85	11-20-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+6XYW_2|Chain B[auth Ab]|Expressed protein|Arabidopsis thaliana (3702)	0.981	Possessing mitochondrial presequence	29(MPP), 30(Icp55*)	0.138	87-91	19-30-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+6XYW_19|Chain S[auth As]|AT1G52370 protein|Arabidopsis thaliana (3702)	0.190	No mitochondrial presequence	104(MPP)	0.058		11-21-high	-	-	-	-	-	-	-	-	-	10-15	-	-	-	-	
+6XYW_18|Chain R[auth Ar]|50S ribosomal protein L21, mitochondrial|Arabidopsis thaliana (3702)	0.802	Possessing mitochondrial presequence	25(MPP)	0.160	57-61	7-18-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+6XYW_17|Chain Q[auth Aq]|50S ribosomal protein L20|Arabidopsis thaliana (3702)	0.162	No mitochondrial presequence	26(MPP)	0.269	6-10,20-24,28-32	4-13-high	-	-	7-12	-	6-11,20-25	-	-	-	-	-	-	-	-	-	
+6XYW_16|Chain P[auth Ap]|At1g24240/F3I6_17|Arabidopsis thaliana (3702)	0.975	Possessing mitochondrial presequence	78(MPP), 79(Icp55*)	0.103		3-12-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+6XYW_15|Chain O[auth Ao]|At5g27820|Arabidopsis thaliana (3702)	0.001	No mitochondrial presequence	55(MPP)	0.073	69-73	11-20-low	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+6XYW_14|Chain N[auth An]|At5g09770|Arabidopsis thaliana (3702)	0.932	Possessing mitochondrial presequence	20(MPP)	0.300	41-45,60-64,73-77,91-95	18-27-high	-	-	-	-	-	-	17-22	-	-	-	-	-	-	16-21	
+6XYW_13|Chain M[auth Am]|60S ribosomal protein L16, mitochondrial|Arabidopsis thaliana (3702)	0.123	No mitochondrial presequence	112(MPP), 113(Icp55*)	0.205	11-15,86-90,94-98	21-30-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+6XYW_12|Chain L[auth Al]|Ribosomal protein L18e/L15 superfamily protein|Arabidopsis thaliana (3702)	0.982	Possessing mitochondrial presequence	60(MPP), 61(Icp55*)	0.133		2-11-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+6XYW_11|Chain K[auth Ak]|50S ribosomal protein HLP, mitochondrial|Arabidopsis thaliana (3702)	0.970	Possessing mitochondrial presequence	46(MPP)	0.087	53-57,62-66	9-20-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+6XYW_10|Chain J[auth Aj]|At1g01640|Arabidopsis thaliana (3702)	0.033	No mitochondrial presequence	45(MPP)	0.156	15-19,42-46	10-19-high	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+6XYW_1|Chain A[auth Aa]|60S ribosomal protein L2, mitochondrial|Arabidopsis thaliana (3702)	0.610	Possessing mitochondrial presequence	49(MPP)	0.265	86-90	1-12-low	-	-	-	-	-	-	-	8-13	-	-	-	-	-	-	
