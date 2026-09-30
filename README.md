@@ -1,4 +1,4 @@
-# Supplementary data for "Ribosomes are covered by a coat of flexible protein fragments"
+# Supplementary data for "Ribosomes are covered by a coat of fexible protein tails"
 
 Authors of the publication: Hugo McGrath, Rudolf Kvasňovský, Michal Kolář
 
@@ -14,40 +14,8 @@ Project structure:
 ├── SCRIPTS                                 # jupyter notebooks to make plots from result data
 ├── FASTA                                   # raw .fasta files from PDB
 ├── FASTA_CLEAN                             # .fasta of only ribosomal proteins, one .fasta per ribosome ({pdb_id}.fasta)
-├── fpf_info_full.json                      # example .json structure:
-                                            # {
-                                            #   "3J7P": [ # pdb_id
-                                            #       {
-                                            #           "chain_name": "A",
-                                            #           "protein_name": "Ribosomal protein uL2",
-                                            #           "fragment_id": 0, # either 0 or 1, depends if C or N terminus
-                                            #           "sequence": "LRGTKTVQEKEN", # sequence of FPT
-                                            #           "length": 12, # length of FPT
-                                            #           "full_sequence": "MGRVIRGQRKGAGSVFRAHVKHRKGAARLRAVDFAERHGYIKGIVKDIIHDPGRGAPLAKVVFRDPYRFKKRTELFIAAEGIHTGQFVYCGKKAQLNIGNVLPVGTMPEGTIVCCLEEKPGDRGKLARASGNYATVISHNPETKKTRVKLPSGSKKVISSANRAVVGVVAGGGRIDKPILKAGRAYHKYKAKRNCWPRVRGVAMNPVEHPFGGGNHQHIGKPSTIRRDAPAGRKVGLIAARRTGRLRGTKTVQEKEN", # full protein sequence
-                                            #           "fpf_position": [
-                                            #               245,
-                                            #               257
-                                            #           ] # index range of FPT in full protein sequence, python indexing
-                                            #       },
-                                            #       ...
-                                            #   ],
-                                            #   ...
-                                            # }
-├── fpf_info.json                           # example .json structure:
-                                            # {
-                                            #   "3J7P": [ # pdb_id
-                                            #       {
-                                            #           "chain_name": "A",
-                                            #           "protein_name": "Ribosomal protein uL2",
-                                            #           "fragment_id": 0, # either 0 or 1, depends if C or N terminus
-                                            #           "sequence": "LRGTKTVQEKEN", # sequence of FPT
-                                            #           "length": 12 # length of FPT
-                                            #       },
-                                            #       ...
-                                            #   ],
-                                            #   ...
-                                            # }
-├── fpf_info_presequence_corrected.json     # same as fpf_info_full.json, except "sequence" has targeting sequence removed
+├── fpf_info_full.json                      # full protein info
+├── fpf_info_presequence_corrected.json     # "sequence" has the mitochondria-targeting sequence removed
 ├── MMCIF                                   # raw .mmcif from PDB
 ├── PLOTS
 ├── PREDICTED_PDBS                          # .pdb structures of proteins including FPTs predicted by ESMFold
@@ -55,14 +23,27 @@ Project structure:
 ├── RESULTS_DSSP                            # {pdb_id}/{chain_name}.csv, secondary structure prediction
 ├── RESULTS_MITOFATES                       # {pdb_id}.tsv, prediction of mitoribosomal protein targeting sequences
 ├── RESULTS_PLDDT                           # {pdb_id}/{chain_name}.npy, ESMFold pLDDT prediction
-└── ribosome_info.json                      # example .json structure:
-                                            # [
-                                            #   {
-                                            #       "organism": "S. scrofa",
-                                            #       "pdb_id": "3J7P",
-                                            #       "resolution": 3.5,
-                                            #       "ribosome_class": "eukaryotes"
-                                            #   },
-                                            #   ...
-                                            # ]
+└── ribosome_info.json                      
+```
+
+Example json structure:
+```
+{
+  "3J7P": [ # pdb_id
+      {
+          "chain_name": "A",
+          "protein_name": "Ribosomal protein uL2",
+          "fragment_id": 0,                             # either 0 or 1, depends if C or N terminus
+          "sequence": "LRGTKTVQEKEN",                   # sequence of FPT
+          "length": 12,                                 # length of FPT
+          "full_sequence": "MGRVIRGQ...EKEN",           # full protein sequence
+          "fpf_position": [
+              245,
+              257
+          ]                                             # index range of FPT in full protein sequence, python indexing
+      },
+      ...
+  ],
+  ...
+}
 ```
