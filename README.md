@@ -15,7 +15,7 @@ Project structure:
 ├── FASTA                                   # raw .fasta files from PDB
 ├── FASTA_CLEAN                             # .fasta of only ribosomal proteins, one .fasta per ribosome ({pdb_id}.fasta)
 ├── fpf_info_full.json                      # full protein info
-├── fpf_info_presequence_corrected.json     # "sequence" has the mitochondria-targeting sequence removed
+├── fpt_info_targetp.json                   # "sequence" has the mitochondria-targeting sequence removed (targetP)
 ├── MMCIF                                   # raw .mmcif from PDB
 ├── PLOTS
 ├── PREDICTED_PDBS                          # .pdb structures of proteins including FPTs predicted by ESMFold
